@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/analysis/static/css/main.c5fa6883.chunk.css",
+    "main.js": "/analysis/static/js/main.7b56110a.chunk.js",
+    "main.js.map": "/analysis/static/js/main.7b56110a.chunk.js.map",
+    "runtime-main.js": "/analysis/static/js/runtime-main.c102b1c2.js",
+    "runtime-main.js.map": "/analysis/static/js/runtime-main.c102b1c2.js.map",
+    "static/css/2.b161b40d.chunk.css": "/analysis/static/css/2.b161b40d.chunk.css",
+    "static/js/2.1b9dd1af.chunk.js": "/analysis/static/js/2.1b9dd1af.chunk.js",
+    "static/js/2.1b9dd1af.chunk.js.map": "/analysis/static/js/2.1b9dd1af.chunk.js.map",
+    "index.html": "/analysis/index.html",
+    "static/css/2.b161b40d.chunk.css.map": "/analysis/static/css/2.b161b40d.chunk.css.map",
+    "static/css/main.c5fa6883.chunk.css.map": "/analysis/static/css/main.c5fa6883.chunk.css.map",
+    "static/js/2.1b9dd1af.chunk.js.LICENSE.txt": "/analysis/static/js/2.1b9dd1af.chunk.js.LICENSE.txt",
+    "static/media/Jonas.10f49b32.png": "/analysis/static/media/Jonas.10f49b32.png",
+    "static/media/Landpro1.8ef9ab15.png": "/analysis/static/media/Landpro1.8ef9ab15.png",
+    "static/media/Landpro2.6971a4d6.png": "/analysis/static/media/Landpro2.6971a4d6.png",
+    "static/media/Landpro3.0f5aec95.png": "/analysis/static/media/Landpro3.0f5aec95.png",
+    "static/media/Markus.731a7f21.png": "/analysis/static/media/Markus.731a7f21.png",
+    "static/media/leaflet.draw.css": "/analysis/static/media/spritesheet.a4e0eb7a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c102b1c2.js",
+    "static/css/2.b161b40d.chunk.css",
+    "static/js/2.1b9dd1af.chunk.js",
+    "static/css/main.c5fa6883.chunk.css",
+    "static/js/main.7b56110a.chunk.js"
+  ]
+}
